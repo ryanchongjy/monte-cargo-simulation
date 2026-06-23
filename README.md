@@ -34,6 +34,3 @@ pip install -r requirements.txt
 jupyter notebook gbm_simulator.ipynb
 ```
 
-## AI Usage Declaration
-
-Gemini 3.0 was used to learn the `ipywidgets` API, since I had not used interactive notebook widgets before. It was prompted for guidance on adding widgets, configuring their inputs, and wiring up buttons to display output. The GBM simulation logic and validation checks were implemented independently.
